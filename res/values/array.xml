@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="languages">
+        <item>Bulgarian (ba)</item>
+        <item>Chinese Simplified (zh-CN)</item>
+        <item>Chinese Traditional (zh-TW)</item>
+        <item>Catalan (ca)</item>
+        <item>Croatian (hr)</item>
+        <item>Czech (cs)</item>
+        <item>Danish (da)</item>
+        <item>Dutch (nl)</item>
+        <item>English (en)</item>
+        <item>Filipino (tl)</item>
+        <item>Finnish (fi)</item>
+        <item>French (fr)</item>
+        <item>German (de)</item>
+        <item>Greek (el)</item>
+        <item>Indonesian (id)</item>
+        <item>Italian (it)</item>
+        <item>Japanese (ja)</item>
+        <item>Korean (ko)</item>
+        <item>Latvian (lv)</item>
+        <item>Lithuanian (lt)</item>
+        <item>Norweigan (no)</item>
+        <item>Polish (pl)</item>
+        <item>Portuguese (pt-PT)</item>
+        <item>Romanian (ro)</item>
+        <item>Russian (ru)</item>
+        <item>Spanish (es)</item>
+        <item>Serbian (sr)</item>
+        <item>Slovak (sk)</item>
+        <item>Slovenian (sl)</item>
+        <item>Swedish (sv)</item>
+        <item>Ukranian (uk)</item>
+    </array>
+
+    <string-array name="languagesCodes">
+        <item>ba</item>
+        <item>zh-CN</item>
+        <item>zh-TW</item>
+        <item>ca</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>tl</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>no</item>
+        <item>Ppl</item>
+        <item>pt-PT</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>es</item>
+        <item>sr</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>sv</item>
+        <item>uk</item>
+    </string-array>
+
+</resources>
